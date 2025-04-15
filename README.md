@@ -1,7 +1,7 @@
 # 🎓 2048 Game - Open Source Project Analysis & Presentation
 
 ## 👨‍🎓 Student Submission  
-This document is part of my submission for the Open Source Project Exploration assignment. We have selected the open-source **2048 Game** as our project. The repository was explored, analyzed, and understood using modern tooling such as GitHub and LLMs (like ChatGPT).
+This document is part of our submission for the Open Source Project Exploration assignment. We have selected the open-source **2048 Game** as our project. The repository was explored, analyzed, and understood using modern tooling such as GitHub and LLMs (like ChatGPT).
 
 ---
 
