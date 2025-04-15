@@ -185,7 +185,6 @@ window.addEventListener("keydown", function (event) {
 - The project is a great example of **clean front-end architecture**.
 - Areas for improvement:
   - Could add TypeScript for better type safety
-  - Modularization with ES6 classes/modules
   - Backend-based leaderboard with Firebase
 
 ---
