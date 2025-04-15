@@ -125,7 +125,7 @@ This project provided a suitable balance between simplicity and complexity — i
 
 ## 💻 Key Code Snippets
 
-### ➕ Merging Tiles
+### -> Merging Tiles
 
 ```js
 if (target && target.value === tile.value && !target.mergedFrom) {
@@ -141,7 +141,7 @@ if (target && target.value === tile.value && !target.mergedFrom) {
 
 ---
 
-### 🎮 Handling Arrow Keys
+### -> Handling Arrow Keys
 
 ```js
 var map = {
