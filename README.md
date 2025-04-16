@@ -21,7 +21,7 @@ This project provided a suitable balance between simplicity and complexity — i
 ## 🎯 Objectives Fulfilled
 
 - Cloned and understood the project (`2048-master`)
-- Investigated code structure and game logic with help from LLM tools
+- Investigated game logic with help from LLM tools
 - Performed **breadth-wise and depth-wise analysis**
 - Documented findings in this README and markdown presentation
 <!-- - (Optional) Attempted bug/PR contribution (if applicable) -->
